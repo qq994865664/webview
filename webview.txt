@@ -51,7 +51,10 @@ CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3
 CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
+
 卫视,#genre#
+凤凰卫视,webview://https://www.fengshows.com/live
+凤凰卫视,video://https://www.fengshows.com/live
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
@@ -584,4 +587,5 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 宁波-4,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
 绍兴公共,webview://https://www.shaoxing.com.cn/app/tv/78
 绍兴新闻综合,webview://https://www.shaoxing.com.cn/app/tv/74
+
 绍兴文化影视,webview://http://www.shaoxing.com.cn/app/tv/75
